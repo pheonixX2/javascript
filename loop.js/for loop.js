@@ -47,15 +47,25 @@
 // }
 
 
-let list = {
-    test: true,
-    title: "title",
-    branch: "main"
-}
+// let list = {
+//     test: true,
+//     title: "title",
+//     branch: "main"
+// }
 
 
 
-for (let i in list){
-    console.log(i , i.i);
+// for (let i in list){
+//     console.log(i , i.i);
+// }
+
+
+for (i =1; i <= 100; i++){
+    if(i%2 == 0){
+
+    }
+    else{
+        console.log(i);
+    }
 }
 
